@@ -4,8 +4,8 @@
   <h2>About Me</h2>
 
 
-<p>Front-End dev</p>
-<p>Pt/En</p>
+<p>Mathematician and Front-End dev</p>
+<p>Pt/En/Jp</p>
 <p>React.js, JS, Css, Html, TS, Lua, Love2d</p>
     
 <a href="#">
